@@ -1,4 +1,4 @@
-# Documentos-Dinamicos-com-WebSocket 
+# Documentos dinamicos com WebSocket 
 
 ## Descrição do Projeto
 
